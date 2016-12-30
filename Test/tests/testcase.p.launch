@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="ablunit.launchType">
+<stringAttribute key="ATTR_ABLUNIT_TESTCASE_NAME" value="D:/cln/Test/tests/testcase.p"/>
+<booleanAttribute key="ATTR_ABLUNIT_TEST_CASE_SELECTION" value="true"/>
+<stringAttribute key="abl.client.PROVERSION" value="11.4"/>
+<booleanAttribute key="abl.client.USE_TTY" value="false"/>
+<stringAttribute key="abl.debug.ABL_PROGRAM" value="ABLUnitCore.r"/>
+<stringAttribute key="abl.debug.ATTR_ABL_PROJECT_NAME" value="Test"/>
+<stringAttribute key="abl.startup.WORKING_DIRECTORY" value="D:/cln/Test/tests"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Test/tests/testcase.p"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables"/>
+</launchConfiguration>
